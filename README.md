@@ -168,7 +168,7 @@ It prevents objects from keeping each other alive forever.
 
 **Q2: What is ARC?**  
 **Answer:**  
-Automatic Reference Counting — Swift’s memory management system.
+Automatic Reference Counting is Swift’s memory management system.
 
 
 
