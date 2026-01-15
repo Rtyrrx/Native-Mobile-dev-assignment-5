@@ -3,13 +3,13 @@
 **Student:** Madias  
 **Group:** SE-2430
 
----
+
 
 ## Introduction
 
-This assignment was all about Object-Oriented Programming in Swift. Overall, it felt pretty straightforward for me because I already understand OOP concepts from other languages. Here, I mostly focused on how Swift implements things like classes, structs, protocols, generics, ARC, and error handling. Nothing crazy or unexpected — I just followed the tasks, wrote the code, ran it, and checked that everything worked as expected.
+This assignment was all about Object-Oriented Programming in Swift. Overall, it felt pretty straightforward for me because I already understand OOP concepts from other languages. Here, I mostly focused on how Swift implements things like classes, structs, protocols, generics, ARC, and error handling. Nothing crazy or unexpected, I just followed the tasks, wrote the code, ran it, and checked that everything worked as expected.
 
----
+
 
 ## Part 1: Classes & Objects
 
@@ -21,9 +21,9 @@ A class is a blueprint for creating objects. It defines properties and methods t
 
 **Q2: What is an object?**  
 **Answer:**  
-An object is an instance of a class — basically a real thing created from that blueprint.
+An object is an instance of a class, basically a real thing created from that blueprint.
 
----
+
 
 ## Part 2: Structs vs Classes
 
@@ -41,7 +41,7 @@ Structs are value types, classes are reference types.
 **Answer:**  
 When you want simple data models, safety, and no shared mutable state.
 
----
+
 
 ## Part 3: Enums
 
@@ -55,7 +55,7 @@ Because a variable can only be one of the defined cases and nothing else.
 **Answer:**  
 It means every possible enum case must be handled in the switch.
 
----
+
 
 ## Part 4: Properties, Methods & Encapsulation
 
@@ -69,7 +69,7 @@ Encapsulation is hiding internal data and exposing only what’s necessary.
 **Answer:**  
 To prevent unwanted changes and protect internal logic.
 
----
+
 
 ## Part 5: Initializers & Deinitializers
 
@@ -87,7 +87,7 @@ To set up an object with initial values.
 **Answer:**  
 Because only classes use reference counting (ARC).
 
----
+
 
 ## Part 6: Inheritance, Overriding & Polymorphism
 
@@ -101,7 +101,7 @@ Inheritance allows a class to reuse and extend another class.
 **Answer:**  
 It’s when different objects respond differently to the same method call.
 
----
+
 
 ## Part 7: Protocols & Delegation
 
@@ -115,7 +115,7 @@ They allow shared behavior without forcing inheritance.
 **Answer:**  
 Protocols define rules, classes provide implementation and storage.
 
----
+
 
 ## Part 8: OOP vs POP
 
@@ -129,7 +129,7 @@ OOP focuses on classes and inheritance, POP focuses on protocols and composition
 **Answer:**  
 They’re safer, faster, and avoid shared mutable state.
 
----
+
 
 ## Part 9: Generics
 
@@ -139,7 +139,7 @@ I wrote generic functions with constraints. This allows code to work with differ
 **Answer:**  
 They remove code duplication while keeping type safety.
 
----
+
 
 ## Part 10: Error Handling
 
@@ -153,7 +153,7 @@ To signal that something went wrong.
 **Answer:**  
 `try` throws errors, `try?` returns nil on error, `try!` crashes if there’s an error.
 
----
+
 
 ## Part 11: Memory Management (ARC)
 
@@ -167,7 +167,7 @@ It prevents objects from keeping each other alive forever.
 **Answer:**  
 Automatic Reference Counting — Swift’s memory management system.
 
----
+
 
 ## Part 12: Practical Challenge (OOP System)
 
