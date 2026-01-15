@@ -1,7 +1,10 @@
-# Assignment #5 — Object-Oriented Programming in Swift
+# Assignment #5 - Object-Oriented Programming in Swift
 
-**Student:** Madias  
-**Group:** SE-2430
+**Course**: Native Mobile Development
+**Student**: Madias Bek
+**Group**: SE-2430
+**Date**: 13.01.2026
+
 
 
 
